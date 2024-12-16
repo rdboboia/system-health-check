@@ -1,6 +1,6 @@
 :: System health check
 
-:: Require ADMIN
+:: Requires ADMIN
 
 :: This command removes old, unused versions of Windows Update files and components, which can free up space and prepare the system for repair operations.
 :: It ensures your component store is in good shape before proceeding with deeper repairs.
